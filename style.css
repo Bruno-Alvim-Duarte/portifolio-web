@@ -1,0 +1,18 @@
+.apresentacao{
+    font-family: 'Paytone One', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+body{
+    background-color: #A0E8AF;
+}
+
+.item-list{
+    padding: 10px;
+}
+
+#descricao{
+    background-color: gray;
+    color: white;
+}
